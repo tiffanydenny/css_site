@@ -107,6 +107,10 @@ h2 + p {
 .footer-nav a {
   color: #ccc;
 }
+.footer-social {
+  display: inline-block;
+  margin: 2em 1em 0;
+}
 
 /* SOCIAL STYLES */
 .social-link {
