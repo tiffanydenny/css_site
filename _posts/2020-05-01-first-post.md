@@ -1,10 +1,10 @@
 ---
 layout: post
-title: This is the title of the first post
-postHero: /images/shark.jpg
-author: Me, Myself, and I
-authorTwitter: https://twitter.com/mhartl
-gravatar: https://gravatar.com/avatar/ffda7d145b83c4b118f982401f962ca6?s=150
+title: Funnies
+postHero: /images/austin-chan-ukzHlkoz1IE-unsplash.jpg
+author: Tiffany Denny
+authorLinkedin: https://www.linkedin.com/in/tiffanydenny/
+gravatar: https://s.gravatar.com/avatar/c4365da3d8822c31c3e167ae492f410b?s=80
 postFooter: Additional information, and maybe a <a href="#">link or two</a>
 ---
 

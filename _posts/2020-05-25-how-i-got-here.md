@@ -1,0 +1,23 @@
+---
+layout: post
+title: How I Got Here
+postHero: /images/jack-anstey-zS4lUqLEiNA-unsplash.jpg
+author: Tiffany Denny
+authorLinkedin: https://www.linkedin.com/in/tiffanydenny/
+gravatar: https://s.gravatar.com/avatar/c4365da3d8822c31c3e167ae492f410b?s=80
+postFooter: If you're hiring, check out my <a href="#">RESUME</a>
+---
+
+I am a software developer. I’ve actually had to practice saying that, because for the last several years, I’ve built a career in health and wellness -- as a physical therapist, yoga instructor, yoga therapist, and director of a wellness-based nonprofit organization. Now, I’m seeking my first job in the tech industry, so I know it’s probably a little confusing when my resume crosses the desk of potential employers. It does not look like that of a software engineer. I have an advanced degree in a medical field but not in tech. I have a plethora work and leadership experience, but outside of tech. I have experience as a speaker, teacher, and presenter, but none of it in the tech industry. When it comes to tech, I am a beginner.
+
+Why on earth would I choose to start my career anew in a competitive industry in my 30’s? It may seem random, but the truth is that the threads of my experience somehow wove themselves into this moment, and this shift.
+
+I have always loved challenges, solving problems, and learning. One of the greatest things about both teaching yoga and working as a physical therapist is that both are vast, ever-changing subjects, that require persistence in education and in practice as well as critically thinking on your feet. That type of subject is what helps me stay engaged and invested in something over the years. Unfortunately, my body has not played along with my career plans. I had an injury requiring multiple surgeries over the years that became quite disruptive to a career that is largely physical in nature. I know that there are non-clinical healthcare jobs out there, but those did not capture my interest.
+
+Long stints passed where I was unable to effectively work as therapist, and I even got a temporary job directing a nonprofit organization, Embody Love Movement, with which I’ve had a long relationship. I had a lot of time to reflect upon my experiences in my career, and to consider whether I wanted to dig in and hope my body would hold up, or to move in a different direction.
+
+Around 4 years ago, my husband became interested in software development, and decided to work on a project that could eventually become an online yoga platform for me.  At the time I did not consider myself technical, though I’ve always particularly enjoyed science and love understanding how things work. But as I considered my predicament, it occurred to me upon reflection that never in my career had technology not played a role in either my frustration or my potential.
+
+As a physical therapist, for example, one of the key challenges was maintaining documentation that was compliant with regulations but that could be completed efficiently. I was at the mercy of the technology available to me. I also felt that I would be able to serve my patients so much better if there was good technology to improve the ways I delivered home programs to them and communicated with them between visits. In the same vein, as a yoga instructor, available technology impacted the ways in which I could both market and deliver my offerings. Currently, there is a huge uptick in the online presence of yoga teachers and medical professionals alike, and there is so much potential for technology to change the way people are able to access these services. Similarly, in my capacity as director of a nonprofit, I navigated a multitude of technologies daily for communications, marketing, data collection and storage, and program creation. I can think of several software projects, had I possessed the skills at the time, that could have benefited me in that particular role.
+
+As it turns out, technology was integral in some way to every aspect of my former career, so when I began to consider a career change, software development quickly filled my imagination and took hold of my attention. In my capacity as a yoga therapist and physical therapist, I have always been interested in looking beyond the surface of things to find the root of a problem, or a deeper understanding of a concept. It seems to me that, these days, at the root of many if not most industries, lies technology. And as I learn and explore the practice of software development, my nerdy heart delights in solving puzzles, uncovering new layers of necessary comprehension, and systemic and syntactic complexities. In this way, software engineering is like yoga. I think it suits me.
