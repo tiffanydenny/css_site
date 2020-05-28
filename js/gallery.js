@@ -2,7 +2,7 @@
 
 function activateGallery() {
   let thumbnails = document.querySelectorAll("#gallery-thumbs > div > img");
-  let mainImage  = document.querySelector("#gallery-site > img");
+  let mainImage  = document.querySelector("#gallery-photo > img");
 
   thumbnails.forEach(function(thumbnail) {
     // Preload large images.

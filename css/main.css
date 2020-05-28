@@ -536,13 +536,16 @@ h4 {
   box-shadow: 0 0 0 5px #114444;
   opacity: 1;
 }
-.gallery-site {
+.gallery-photo {
   position: relative;
 }
-.gallery-site iframe {
+.gallery-photo img {
+  width: 100%;
+}
+/* .gallery-site iframe {
   width: 100%;
   height: 100vh;
-}
+} */
 .gallery-info {
   font-size: 0.75rem;
 }
