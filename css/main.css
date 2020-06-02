@@ -483,11 +483,19 @@ h4 {
   overflow: hidden;
   max-width: 960px
 }
+.about-wrapper iframe {
+  width: 80vw;
+  height: 100vw;
+  frameborder: 0;
+  margin-top: 2em;
+  marginwidth: 0;
+  position: center
+}
 .about-box {
   /* box-sizing: border-box;
   float: left; */
   font-size:1rem;
-  margin: 0 0 0;
+  margin-top: 5em;
   padding: 0 3%;
   width: 100%;
   height: 100%;
@@ -497,7 +505,7 @@ h4 {
   float: left;
   font-size: 1rem;
   font-weight: 75;
-  margin:  0 0;
+  margin-bottom: 20vh;
   padding: 0 3%;
   width: 50%;
 }
