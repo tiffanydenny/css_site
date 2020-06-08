@@ -1,5 +1,5 @@
 # My Website.
-Building my first website -- something functional to serve as my personal dev site.
+I built this during a tutorial to learn CSS and JavaScript, and it is standing in for my portfolio site, currently being built in React. 
 
 This was my first foray into front-end development and using CSS and layout. Used some box model. Added a little JavaScript 
 
